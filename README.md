@@ -1,33 +1,37 @@
-# Week 1 Assignment
+Hi, I'm Adnan! 👋
 
-This assignment aims to practice HTML, CSS and SASS
+## Introduction
 
-## Requirement
+I am a highly motivated and passionate full-stack Web Developer 🚀 with a background in Electrical Engineering, bringing a unique perspective to the world of web development 💪. My passion for learning and exploring new technologies led me to embark on a journey to transition my career into the exciting realm of web development.
 
-Create an e-commerce website
+In my previous professional roles, I gained experience working as a team player, meeting project deadlines, documentation, and effectively resolving technical challenges. While working on a programming assignment, I discovered my true passion and decided to change my career. Since then, I could not get enough.
 
-1. Git/GitHub
+## Tech Stack
 
-- create a simple `README` file to introduce yourself
-- submit the assignment by open a pull request (PR)
-- make the repository public
-- add label to your PR
+Here's a glimpse of my technical skills:
 
-2. HTML and Accessibility
+- **Languages:** JavaScript, TypeScript
+- **Frontend:** React, Redux, HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, PostgreSQL
+- **Tools & Practices:** Git, GitHub, Agile
+- **Testing:** Cypress, Jest
 
-- Make use of different tags: headings, paragraphs, link, italic, ordered list, unordered list,table, form
-- Check out more tags that might be helpful: address, section, article, audio
+With this tech stack, I aim to create robust and efficient web applications.
 
-3. CSS
+## Hobbies
 
-- add styling to the HTML file using Flexbox and Grid
-- add basic animation (hover effect, active link styles, typing effect)
-- the web page does not need to be fully responsive, but at least you should have responsive scaling for Flexbox and Grid system.
+Outside the world of coding, here are a few things I enjoy:
 
-4. SASS
+- **Badminton Enthusiast:** 🏸 I love the thrill of the game and the joy of a well-played match.
+- **Passionate Coder:** 👨‍💻 Coding isn't just a profession for me; it's a passion that I pursue with dedication.
+- **Coffee Addict:** ☕️ A good cup of coffee is my fuel for coding sessions and a perfect companion for brainstorming.
 
-- apply SAAS to current project. Make sure to at least use variables and mixins
+## Contact
 
-5. Other
-   - Deploy the project
-   - Write a readme file to describe your project with few more details
+I am constantly looking for new opportunities in the field of web development. Feel free to reach out to me:
+
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-hanif/) [![Visit Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logoColor=white)](https://react-tailwaind-portfolio-app.netlify.app/)
+
+Let's build something amazing together! 🚀
+
