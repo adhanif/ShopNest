@@ -5,8 +5,12 @@
   "main": "index.js",
   "author": "andrea <ngocanhhsgs@gmail.com>",
   "license": "MIT",
+  "homepage": "https://github.com/adhanif/fs17-week1",
   "scripts": {
     "compile": "sass src/styles/style.scss:src/style.css",
     "compile:watch": "sass --watch src/styles/style.scss:src/style.css"
+  },
+  "dependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
