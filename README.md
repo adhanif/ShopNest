@@ -2,6 +2,13 @@
 
 This is a basic e-commerce website with a simple design. It includes features such as product listing, fast delivery, free shipping, and high-quality products.
 
+## Deployment
+
+The website is deployed on GitHub Pages. You can access it [here](https://adhanif.github.io/fs17-week1/).
+
+[![View Website](https://img.shields.io/badge/View%20Website-blue?style=for-the-badge&logo=github)](https://adhanif.github.io/fs17-week1/)
+
+
 ## Installation
 
 1. Clone the repository:
