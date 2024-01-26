@@ -1,0 +1,47 @@
+//
+
+@use './variables';
+
+@mixin base-btn-style($bg-color, $text-color) {
+  border-radius: 5px;
+  cursor: pointer;
+  border: 1px solid variables.$btnColor;
+  text-transform: uppercase;
+  transition: all 0.3s;
+  background-color: $bg-color;
+  color: $text-color;
+  padding: 10px 40px;
+  margin-top: 25px;
+  &:hover {
+    background-color: transparent;
+    color: variables.$btnColor;
+  }
+}
+
+@mixin sec-btn-style($bg-color, $text-color) {
+  cursor: pointer;
+  font-weight: 700;
+  border: 1px solid $bg-color;
+  text-transform: uppercase;
+  transition: all 0.3s;
+  background-color: $bg-color;
+  color: $text-color;
+  padding: 15px 40px;
+  margin-top: 25px;
+  &:hover {
+    background-color: transparent;
+    color: $bg-color;
+  }
+}
+
+@mixin responsive($device-size) {
+  @media screen and (max-width: $device-size) {
+    @content;
+  }
+}
+
+@mixin range($min-width, $max-width) {
+  @media screen and (min-width: $min-width) and (max-width: $max-width) {
+    @content;
+  }
+}
