@@ -1,37 +1,57 @@
-Hi, I'm Adnan! 👋
+# E-commerce Website
 
-## Introduction
+This is a basic e-commerce website with a simple design. It includes features such as product listing, fast delivery, free shipping, and high-quality products.
 
-I am a highly motivated and passionate full-stack Web Developer 🚀 with a background in Electrical Engineering, bringing a unique perspective to the world of web development 💪. My passion for learning and exploring new technologies led me to embark on a journey to transition my career into the exciting realm of web development.
+## Installation
 
-In my previous professional roles, I gained experience working as a team player, meeting project deadlines, documentation, and effectively resolving technical challenges. While working on a programming assignment, I discovered my true passion and decided to change my career. Since then, I could not get enough.
+1. Clone the repository:
 
-## Tech Stack
+   ```bash
+   git clone https://github.com/adhanif/fs17-week1.git
 
-Here's a glimpse of my technical skills:
+   ```
 
-- **Languages:** JavaScript, TypeScript
-- **Frontend:** React, Redux, HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, PostgreSQL
-- **Tools & Practices:** Git, GitHub, Agile
-- **Testing:** Cypress, Jest
+2. Install dependencies:
+   ```bash
+   npm install
 
-With this tech stack, I aim to create robust and efficient web applications.
+   ```
+3. Compile Sass to CSS:
 
-## Hobbies
+   ```bash
+   npm run compile
 
-Outside the world of coding, here are a few things I enjoy:
+   ```
 
-- **Badminton Enthusiast:** 🏸 I love the thrill of the game and the joy of a well-played match.
-- **Passionate Coder:** 👨‍💻 Coding isn't just a profession for me; it's a passion that I pursue with dedication.
-- **Coffee Addict:** ☕️ A good cup of coffee is my fuel for coding sessions and a perfect companion for brainstorming.
+4. To watch for changes and automatically compile:
+   ```bash
+   npm run compile:watch
+   ```
 
-## Contact
+# Usage
 
-I am constantly looking for new opportunities in the field of web development. Feel free to reach out to me:
+Open the `index.html` file in a web browser to view the website. Navigate through the different sections like home, shop, why us, and contact us.
 
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-hanif/) [![Visit Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logoColor=white)](https://react-tailwaind-portfolio-app.netlify.app/)
+# Features
 
-Let's build something amazing together! 🚀
+- **Responsive Design:** The website is designed to work well on various screen sizes.
+- **Latest Products:** Browse the latest products in the "SHOP" section.
+- **Why Shop With Us:** Discover the advantages of shopping on this platform, including fast delivery, free shipping, and high-quality products.
 
+# Contributing
+
+If you want to contribute to this project, feel free to fork the repository, create a new branch for your feature, make changes, and submit a pull request.
+
+# License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+# Contact
+
+For any inquiries or issues, please contact:
+
+- **Email:** ndemo@gmail.com
+
+---
+
+© 2024 All Rights Reserved By Adnan
