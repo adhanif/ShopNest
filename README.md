@@ -1,6 +1,9 @@
-# E-commerce Website
+# ShopNest
 
-This is a basic e-commerce website with a simple design. It includes features such as product listing, fast delivery, free shipping, and high-quality products.
+This is a basic e-commerce website with a simple design. It includes features such as product listing, fast delivery, free shipping, and high-quality products. It utilizes the following technology stack:
+
+- **HTML:** Hypertext Markup Language for structuring web pages.
+- **CSS with Sass:** Cascading Style Sheets with Sass preprocessor for styling the website.
 
 ## Deployment
 
