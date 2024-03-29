@@ -56,11 +56,6 @@ If you want to contribute to this project, feel free to fork the repository, cre
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-# Contact
-
-For any inquiries or issues, please contact:
-
-- **Email:** ndemo@gmail.com
 
 ---
 
